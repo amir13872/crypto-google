@@ -32,4 +32,4 @@ This script is a simple tool that finds the **Login Data** and **Local State** f
 If you encounter any issues using this script, you can modify the **`.bat`** file and adjust the paths to fit your needs.  
 
 ---
-📌 **Created by Mohammad**
+📌 **Created by Amir Mahdi Zare**
